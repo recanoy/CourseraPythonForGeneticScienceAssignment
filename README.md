@@ -1,4 +1,8 @@
 # Coursera's Python For Genenomic Data Science Final Exam
+*** Important ***
+Note: In accordance with Coursera's Honor Code, this solution is meant for personal use only and not meant to be distributed.
+*** Important ***
+
 Final Exam for Coursera's Python for Genetic Science course
 
 Instructions: Write a Python program that takes as input a file containing DNA sequences in multi-FASTA format, and computes the answers to the following questions. You can choose to write one program with multiple functions to answer these questions, or you can write several programs to address them. We will provide a multi-FASTA file for you, and you will run your program to answer the exam questions. 
