@@ -1,6 +1,8 @@
 # Coursera's Python For Genenomic Data Science Final Exam
-*** Important *** \\
-Note: In accordance with Coursera's Honor Code, this solution is meant for personal use only and not meant to be distributed. \\
+*** Important ***
+
+Note: In accordance with Coursera's Honor Code, this solution is meant for personal use only and not meant to be distributed.
+
 *****************
 
 Final Exam for Coursera's Python for Genetic Science course
